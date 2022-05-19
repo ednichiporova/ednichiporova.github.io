@@ -408,6 +408,78 @@
     </item>
     
     <item>
+      <title>Моя прошлая неделя до 19 мая</title>
+      <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-%D0%B4%D0%BE-19-%D0%BC%D0%B0%D1%8F/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-%D0%B4%D0%BE-19-%D0%BC%D0%B0%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;На этой неделе было много контрольных работ: две по математическому анализу и одна по математической логике.&lt;/li&gt;
+&lt;li&gt;На выходных я много гуляла&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчета</title>
+      <link>https://example.com/post/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4-%D0%BA-4-%D1%8D%D1%82%D0%B0%D0%BF%D1%83/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4-%D0%BA-4-%D1%8D%D1%82%D0%B0%D0%BF%D1%83/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Мы знакомились с лекговесным языком маркдаун в 3 лабораторной работе. Так же я писала о этом языке в посте на прошлой неделе. Сейчас мы с вами рассмотрим как делать отчеты в макрдаун.&lt;/li&gt;
+&lt;li&gt;В маркдаун мы можем менять стиль шрифта с обычного на курсивный, жирный. Так же можно маркировать списки.&lt;/li&gt;
+&lt;li&gt;Также надо внимать следить за тем, как ты вставляешь картинки, потому что при создании файлов пдф и док из маркдаун может возникать ошибка игнорирования&lt;/li&gt;
+&lt;li&gt;В принципе, язык маркдаун очень простой и понятный, поэтому не составляет никакого труда в нем работать.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Управление версиями.Git</title>
       <link>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.git/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
